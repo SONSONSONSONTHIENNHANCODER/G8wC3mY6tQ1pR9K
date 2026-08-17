@@ -34,6 +34,10 @@
   "1192066240143949824": {
     "key": "Namduy",
     "hwid": "",
-    "discord_name": "itzkiori"
+    "discord_name": "itzkiori",
+    "reset_info": {
+      "month": "2026-08",
+      "count": 1
+    }
   }
 }
