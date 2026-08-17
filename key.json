@@ -71,7 +71,11 @@
   "889774365460271114": {
     "key": "riohello123",
     "hwid": "",
-    "discord_name": "riohello123"
+    "discord_name": "riohello123",
+    "reset_info": {
+      "month": "2026-08",
+      "count": 1
+    }
   },
   "1147175492064133151": {
     "key": "dailyslimes",
