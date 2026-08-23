@@ -9,7 +9,11 @@
   },
   "1125626572297224202": {
     "key": "duynguvl",
-    "hwid": "13EB61FC9AA1-2D4EE36EBDF0"
+    "hwid": "",
+    "reset_info": {
+      "month": "2026-08",
+      "count": 1
+    }
   },
   "1409977089402339509": {
     "key": "giahuyvcbn15",
