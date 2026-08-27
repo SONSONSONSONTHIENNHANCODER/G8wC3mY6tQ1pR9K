@@ -90,8 +90,12 @@
   },
   "1147175492064133151": {
     "key": "dailyslimes",
-    "hwid": "0EF7D28C1F12-955E4D4C1C8D",
-    "discord_name": "dailyslimes"
+    "hwid": "",
+    "discord_name": "dailyslimes",
+    "reset_info": {
+      "month": "2026-08",
+      "count": 1
+    }
   },
   "1528081180635828275": {
     "key": "nhatcuongdzz2011_56280",
