@@ -148,6 +148,10 @@
   "1099690979805638667": {
     "key": "khunglongcon20",
     "hwid": "",
-    "discord_name": "khunglongcon20"
+    "discord_name": "khunglongcon20",
+    "reset_info": {
+      "month": "2026-09",
+      "count": 1
+    }
   }
 }
