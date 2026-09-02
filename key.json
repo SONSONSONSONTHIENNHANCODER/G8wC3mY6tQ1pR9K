@@ -132,8 +132,12 @@
   },
   "1537758255743373312": {
     "key": "locpc123",
-    "hwid": "FF91C402B282-C4DA42E06DE7",
-    "discord_name": "locpc123"
+    "hwid": "",
+    "discord_name": "locpc123",
+    "reset_info": {
+      "month": "2026-09",
+      "count": 1
+    }
   },
   "1112995793603936316": {
     "key": "tien_faaa",
