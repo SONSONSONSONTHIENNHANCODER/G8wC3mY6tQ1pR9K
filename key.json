@@ -169,7 +169,11 @@
   },
   "1116637899723657317": {
     "key": "pont_2007",
-    "hwid": "0692E19D4E45-EE82B59042C8",
-    "discord_name": "pont_2007"
+    "hwid": "",
+    "discord_name": "pont_2007",
+    "reset_info": {
+      "month": "2026-09",
+      "count": 1
+    }
   }
 }
