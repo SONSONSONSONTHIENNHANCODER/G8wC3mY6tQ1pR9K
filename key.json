@@ -4,7 +4,7 @@
     "hwid": "7A214CD0FFF8-9AADA4AE6F47",
     "reset_info": {
       "month": "2026-09",
-      "count": 10
+      "count": 
     }
   },
   "1125626572297224202": {
@@ -164,7 +164,7 @@
   },
   "1496534971358380182": {
     "key": "tomlts_03",
-    "hwid": "BDAA59B8355B-CAA34DE4EADF",
+    "hwid": "",
     "discord_name": "tomlts_03",
     "reset_info": {
       "month": "2026-09",
