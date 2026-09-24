@@ -175,6 +175,10 @@
   "1546546602028564522": {
     "key": "bachkhi0205",
     "hwid": "",
-    "discord_name": "bachkhi0205"
+    "discord_name": "bachkhi0205",
+    "reset_info": {
+      "month": "2026-09",
+      "count": 1
+    }
   }
 }
