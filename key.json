@@ -164,8 +164,12 @@
   },
   "1416634581120978944": {
     "key": "thanh096850",
-    "hwid": "3A6ADF9D094B-0848139FD9F1",
-    "discord_name": "thanh096850"
+    "hwid": "",
+    "discord_name": "thanh096850",
+    "reset_info": {
+      "month": "2026-09",
+      "count": 1
+    }
   },
   "1378984755999281164": {
     "key": "thuong04207",
